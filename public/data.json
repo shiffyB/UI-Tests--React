@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "קשת 1 ",
+      "price": 200,
+      "category": "babies"
+    },
+    {
+      "id": 2,
+      "name": "קשת 2",
+      "price": 300,
+      "category": "babies"
+    },
+    {
+      "id": 3,
+      "name": "קשת 3 ",
+      "price": 300,
+      "category": "babies"
+    },
+    {
+      "id": 4,
+      "name": "קשת 4",
+      "price": 300,
+      "category": "babies"
+    },
+    {
+      "id": 5,
+      "name": "סיכה 1",
+      "price": 300,
+      "category": "babies"
+    },
+    {
+      "id": 6,
+      "name": "סיכה 2",
+      "price": 300,
+      "category": "babies"
+    },
+    {
+      "id": 7,
+      "name": "סיכה 3",
+      "price": 300,
+      "category": "occasions"
+    },
+    {
+      "id": 8,
+      "name": "סיכה 4",
+      "price": 300,
+      "category": "occasions"
+    },
+    {
+      "id": 9,
+      "name": "סיכה 5",
+      "price": 300,
+      "category": "occasions"
+    },
+    
+    {
+      "id": 17,
+      "name": "סרטטט8",
+      "price": 300,
+      "category": "bags"
+    },
+    {
+      "id": 18,
+      "name": "סרטטט9",
+      "price": 300,
+      "category": "bags"
+    },
+    {
+      "id": 19,
+      "name": "תיק1",
+      "price": 200,
+      "category": "baby"
+    },
+    {
+      "id": 19,
+      "name": "תיק1",
+      "price": 200,
+      "category": "baby"
+    },
+    {
+      "id": 19,
+      "name": "תיק1",
+      "price": 200,
+      "category": "baby"
+    },
+    {
+      "id": 19,
+      "name": "תיק1",
+      "price": 200,
+      "category": "baby"
+    },
+    {
+      "id": 19,
+      "name": "תיק1",
+      "price": 200,
+      "category": "baby"
+    },
+    {
+      "id": 19,
+      "name": "תיק1",
+      "price": 200,
+      "category": "hair"
+    }
+  ]
+}
